@@ -11,41 +11,52 @@
 
 ### [High] Issue Title
 
-**Description**\
+**Description**  
 Description here
 
-**Files(s)** \
-File
+**Files(s)**  
+File (Use the raw path for easier copy-paste)
 
-**Exploitation Scenarios**\
+**Exploitation Scenarios**  
 Exploitation
 
-**Recommendation** \
+**Recommendation**  
 Recommendation
 
-### [Medium] Issue Title
 
-**Description**\
+### [Medium] Issue Title  
+**Description**  
 Description here
 
-**Files(s)** \
+**Files(s)**  
 File
 
-**Exploitation Scenarios**\
+**Exploitation Scenarios**  
 Exploitation
 
-**Recommendation** \
+**Recommendation**  
 Recommendation
 
-## Documentation Issues
+
+### [Medium] Centralized Risk 
+**Description**  
+Description here
+
+**Files(s)**  
+File
+
+**Exploitation Scenarios**  
+Exploitation
+
+**Recommendation**  
+Recommendation
 
 
-## Best Practices
-
-## Interesting Designs in the Protocol (optional)
-
-## Interesting Findings (optional)
+## Documentation Issues  
 
 
+## Best Practices  
 
+## Interesting Designs in the Protocol (optional)  
 
+## Interesting Findings (optional)  
