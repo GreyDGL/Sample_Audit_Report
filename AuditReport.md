@@ -6,6 +6,8 @@
 - Commit Hash:
 - List of Specs/Docs:
 
+## Scope
+
 
 ## Issues
 
